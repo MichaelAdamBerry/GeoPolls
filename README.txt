@@ -2,12 +2,13 @@
 http://www.py4e.com
 
 Description:
--geoload.py reads polling addresses from a text document and uses Google Maps API to retrieve the geolocation data. 
+
+-votegeoload.py reads polling addresses from a text document and uses Google Maps API to retrieve the geolocation data. 
  geovote.sqlite database is created which stores text adress, latitude, and longitude data.
 
--geodump.py aquires data from geovote.sql and writes the latitude, longitude, and formatted address to where.js 
+-votegeodump.py aquires data from geovote.sql and writes the latitude, longitude, and formatted address to where.js 
 
--where.html displays those locations on a map in browser.
+-polls.html displays those locations on a map in browser.
 
 
 Usage: 
