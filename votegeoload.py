@@ -6,7 +6,7 @@ import time
 import ssl
 import sys
 
-api_key = "AIzaSyDo7_marIZaa5oMCjDJbJsMaGxKi6Cj79U"
+api_key = "[insert api key]"
 
 serviceurl = "https://maps.googleapis.com/maps/api/place/textsearch/json?"
 
